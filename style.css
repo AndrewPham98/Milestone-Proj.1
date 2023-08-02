@@ -7,12 +7,12 @@
 }
 
 .score {
-    font-family: "Permanent Marker", cursive;
+    font-family: 'Moirai One', cursive;
     font-size: 100px;
 }
 
 .resetButton {
-    font-family: "Permanent Marker", cursive;
+    font-family: "Roboto";
     font-size: 22px;
     width: 100px;
     height: 50px;
