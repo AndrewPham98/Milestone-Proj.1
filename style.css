@@ -1,7 +1,22 @@
-.header {
-    background-color: 0099FF;
+.gameContainer {
+   text-align: center;
 }
 
-h1 {
-    color: 0099FF;
+.gameBoard {
+    border: 3px solid;
+}
+
+.score {
+    font-family: "Permanent Marker", cursive;
+    font-size: 100px;
+}
+
+.resetButton {
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
 }
