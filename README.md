@@ -1,6 +1,6 @@
 # Milestone-Proj.1
 
-First attemot at a game.
+First attempt at a game.
 
 - built with the tutorial by BroCode on Youtube.
 Snake Game written in JavaSCript.
