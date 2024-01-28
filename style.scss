@@ -1,0 +1,30 @@
+.gameContainer {
+    text-align: center;
+ }
+ 
+ .gameBoard {
+     border: 3px solid;
+     opacity: 0.5;
+ }
+ 
+ .scoreText {
+     font-family: 'Moirai One', cursive;
+     font-size: 100px;
+ }
+ 
+ .resetBtn {
+     font-family: "Roboto";
+     font-size: 22px;
+     width: 100px;
+     height: 50px;
+     border: 4px solid;
+     border-radius: 15px;
+     cursor: pointer;
+ }
+ 
+ body {
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/72d86c3f-6fca-4744-ad50-43b1fa8f28b7/d5ifxpg-63af96cb-bf21-4c60-8be9-b4a726d7569d.jpg/v1/fill/w_900,h_640,q_75,strp/gundam_00_raiser_and_setsuna_f__seiei_by_nick_ian_d5ifxpg-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQwIiwicGF0aCI6IlwvZlwvNzJkODZjM2YtNmZjYS00NzQ0LWFkNTAtNDNiMWZhOGYyOGI3XC9kNWlmeHBnLTYzYWY5NmNiLWJmMjEtNGM2MC04YmU5LWI0YTcyNmQ3NTY5ZC5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.mHljfzZEWv6uWvF-kU-hrLUGci2LtMHa6HfYCunPq4c
+    );
+    background-repeat: no-repeat;
+    background-position: center;
+ }

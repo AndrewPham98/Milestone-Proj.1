@@ -1,4 +1,3 @@
-// https://www.deviantart.com/nick-ian/art/Gundam-00-Raiser-and-Setsuna-F-Seiei-333307492
 
 const gameBoard = document.querySelector(".gameBoard");
 const ctx = gameBoard.getContext("2d");
